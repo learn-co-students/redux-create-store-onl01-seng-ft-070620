@@ -12,7 +12,7 @@ to:
 
 Use `js/createStore.js` to follow along. Open `index.html` to try out the code.
 
-## Encapsulate our application's state by wrapping our code in a function
+## Encapsulate our application's state by wrapping our code in a function 
 
 Let's look at the code that we wrote in the last section.
 
